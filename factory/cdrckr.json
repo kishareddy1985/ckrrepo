@@ -1,0 +1,9 @@
+{
+	"name": "cdrckr",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a5197576-a4ad-4d57-ac52-c7c32fd309f2",
+		"tenantId": "242271fd-df9c-4465-9072-f82d5e2de2bc"
+	}
+}
